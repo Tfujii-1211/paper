@@ -3,4 +3,4 @@ issueにサーベイをまとめるアカウント \
 論文一覧 \
 NLP \
 CV \
-- anomaly transformers
+- anomaly transformers （22/09/18）
